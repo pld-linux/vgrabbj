@@ -51,6 +51,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog NEWS README THANKS TODO vgrabbj.conf.default
 %attr(755,root,root) %{_bindir}/vgrabbj
-%config(noreplace) %verify(not md5 size mtime) %{_sysconfdir}/%{name}.conf
+%config(noreplace) %verify(not md5 mtime size) %{_sysconfdir}/%{name}.conf
 %{_mandir}/man1/vgrabbj.*
 %{_mandir}/man5/vgrabbj.*

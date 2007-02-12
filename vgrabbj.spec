@@ -1,5 +1,5 @@
 Summary:	Grabs a frame from the videodevice
-Summary(pl.UTF-8):   Pobiera ramkę obrazu z urządzenia wideo
+Summary(pl.UTF-8):	Pobiera ramkę obrazu z urządzenia wideo
 Name:		vgrabbj
 Version:	0.9.6
 Release:	1

@@ -1,5 +1,5 @@
 Summary:	Grabs a frame from the videodevice
-Summary(pl):	Pobiera ramkê obrazu z urz±dzenia wideo
+Summary(pl.UTF-8):   Pobiera ramkÄ™ obrazu z urzÄ…dzenia wideo
 Name:		vgrabbj
 Version:	0.9.6
 Release:	1
@@ -20,11 +20,11 @@ to stdout or a file, which makes it ideal for a Web cam. It supports
 timestamping, can run as daemon, and shows the current settings of a
 video device.
 
-%description -l pl
-vgrabbj pobiera ramkê z urz±dzenia video i zapisuje j± jako JPG/PNG na
-standardowe wyj¶cie lub do pliku, co jest idealne dla kamery
-internetowej. Posiada mo¿liwo¶æ do³±czenia aktualnej daty, pracy jako
-us³uga oraz pokazywania aktualnych ustawieñ urz±dzenia wideo.
+%description -l pl.UTF-8
+vgrabbj pobiera ramkÄ™ z urzÄ…dzenia video i zapisuje jÄ… jako JPG/PNG na
+standardowe wyjÅ›cie lub do pliku, co jest idealne dla kamery
+internetowej. Posiada moÅ¼liwoÅ›Ä‡ doÅ‚Ä…czenia aktualnej daty, pracy jako
+usÅ‚uga oraz pokazywania aktualnych ustawieÅ„ urzÄ…dzenia wideo.
 
 %prep
 %setup -q
